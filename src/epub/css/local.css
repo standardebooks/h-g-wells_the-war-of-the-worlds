@@ -17,6 +17,21 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+section[epub|type~="epigraph"] blockquote{
+	margin: 5em auto;
+	max-width: 50%;
+}
+
+[epub|type~="epigraph"] cite{
+	margin-top: 1em;
+	font-style: normal;
+	font-variant: small-caps;
+}
+
+[epub|type~="epigraph"] cite i{
+	font-style: italic;
+}
+
 /* helpful during drafting */
 [epub|type~="z3998:roman"],
 [lang]:not(html),
