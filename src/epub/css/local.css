@@ -13,7 +13,7 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-.headline p{
+#book-1 blockquote p{
 	text-indent: 0;
 	font-variant: small-caps;
 }
