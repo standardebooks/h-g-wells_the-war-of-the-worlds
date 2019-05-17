@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The War of the Worlds</dc:title>
 		<meta property="file-as" refines="#title">War of the Worlds, The</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
@@ -36,21 +36,26 @@
 		<dc:subject id="subject-5">Space warfare -- Fiction</dc:subject>
 		<dc:subject id="subject-6">Imaginary wars and battles -- Fiction</dc:subject>
 		<dc:subject id="subject-7">Life on other planets -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/36</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/36</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/36</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/36</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/36</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/36</meta>
-		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/36</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85118629</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85145220</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008115817</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008112008</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008104271</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2008106912</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">The first-person narrative of the Martian invasion of 19th-century Earth.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;H. G. Wells’ classic tale of alien invasion has to this day never been out of print. Like many works of the era, it was originally published as a serial—though the publisher, &lt;i&gt;Pearson’s Magazine&lt;/i&gt;, demanded to know the ending before committing to publication.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The War of the Worlds&lt;/i&gt;, with its matter-of-fact narrative style and deft mixture of contemporary science and fictionalized interstellar war machines, became an instant hit. Its themes of colonialism, social Darwinism, good and evil, and total war still resonate with modern-day readers, so much so that it’s been continuously adapted for screen, radio, television, comics, and print.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/36</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/012293655</dc:source>
