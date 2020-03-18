@@ -3,7 +3,7 @@
 	<title>The titlepage for the Standard Ebooks edition of The War of the Worlds, by H. G. Wells</title>
 	<style type="text/css">
 		text{
-			font-family: League Spartan;
+			font-family: "League Spartan";
 			letter-spacing: 5px;
 			text-anchor: middle;
 		}
