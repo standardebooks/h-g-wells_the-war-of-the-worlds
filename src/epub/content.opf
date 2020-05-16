@@ -53,7 +53,7 @@
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">The first-person narrative of the Martian invasion of 19th-century Earth.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;H. G. Wells’ classic tale of alien invasion has to this day never been out of print. Like many works of the era, it was originally published as a serial—though the publisher, &lt;i&gt;Pearson’s Magazine&lt;/i&gt;, demanded to know the ending before committing to publication.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;&lt;abbr&gt;H. G.&lt;/abbr&gt; Wells’&lt;/a&gt; classic tale of alien invasion has to this day never been out of print. Like many works of the era, it was originally published as a serial—though the publisher, &lt;i&gt;Pearson’s Magazine&lt;/i&gt;, demanded to know the ending before committing to publication.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The War of the Worlds&lt;/i&gt;, with its matter-of-fact narrative style and deft mixture of contemporary science and fictionalized interstellar war machines, became an instant hit. Its themes of colonialism, social Darwinism, good and evil, and total war still resonate with modern-day readers, so much so that it’s been continuously adapted for screen, radio, television, comics, and print.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
