@@ -60,7 +60,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/36</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/012293655</dc:source>
-		<meta property="se:word-count">60555</meta>
+		<meta property="se:word-count">60557</meta>
 		<meta property="se:reading-ease.flesch">69.01</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_War_of_the_Worlds</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-g-wells_the-war-of-the-worlds</meta>
