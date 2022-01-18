@@ -8,7 +8,8 @@ section[epub|type~="dedication"] p{
 	text-indent: 0;
 }
 
-#book-1 blockquote p{
+#chapter-1-3 blockquote p,
+#chapter-1-14 blockquote p{
 	text-indent: 0;
 	font-variant: small-caps;
 }
