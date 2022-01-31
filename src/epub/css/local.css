@@ -10,8 +10,8 @@ section[epub|type~="dedication"] p{
 
 #chapter-1-3 blockquote p,
 #chapter-1-14 blockquote p{
-	text-indent: 0;
 	font-variant: small-caps;
+	text-indent: 0;
 }
 
 /* All epigraphs */
@@ -26,9 +26,9 @@ section[epub|type~="dedication"] p{
 }
 
 [epub|type~="epigraph"] cite{
-	margin-top: 1em;
 	font-style: normal;
 	font-variant: small-caps;
+	margin-top: 1em;
 }
 
 [epub|type~="epigraph"] cite i{
