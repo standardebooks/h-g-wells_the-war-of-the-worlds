@@ -49,7 +49,7 @@
 		<meta property="term" refines="#subject-6">sh2008104271</meta>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2008106912</meta>
-		<meta id="collection" property="belongs-to-collection">Le Monde‘s 100 Books of the Century (1998)</meta>
+		<meta id="collection" property="belongs-to-collection">Le Monde‘s 100 Books of the Century</meta>
 		<meta property="collection-type" refines="#collection">series</meta>
 		<meta property="group-position" refines="#collection">56</meta>
 		<meta property="se:subject">Science Fiction</meta>
