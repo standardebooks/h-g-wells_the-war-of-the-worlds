@@ -74,8 +74,8 @@
 		<dc:contributor id="artist">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#artist">Anonymous</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Online Distributed Proofreading Team, The</meta>
+		<dc:contributor id="transcriber-1">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-1">https://www.pgdp.net</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
